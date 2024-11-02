@@ -553,3 +553,8 @@ video {
 [hidden]:where(:not([hidden="until-found"])) {
   display: none;
 }
+
+.text-5xl {
+  font-size: 3rem;
+  line-height: 1;
+}
